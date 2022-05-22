@@ -7,10 +7,14 @@
 }
 
 .buy-now-btn {
-  margin-top: 20px;
+  margin-top: 50px;
   padding: 10px 15px;
   border: none;
   border-radius: 5px;
   background-color: black;
   color: white;
+}
+
+.carousel-control-prev {
+  height: 50px;
 }
