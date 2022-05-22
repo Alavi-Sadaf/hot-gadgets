@@ -5,3 +5,12 @@
 .nav-item {
   margin-left: 20px;
 }
+
+.buy-now-btn {
+  margin-top: 20px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+}
